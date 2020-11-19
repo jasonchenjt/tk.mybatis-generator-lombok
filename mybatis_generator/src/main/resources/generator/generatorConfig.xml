@@ -29,6 +29,7 @@
 <!--            <property name="nullCatalogMeansCurrent" value="true"/>-->
         </jdbcConnection>
 
+
         <!-- 配置实体类存放路径 -->
         <javaModelGenerator targetPackage="com.mygroup.generator.domain.table" targetProject="src/main/java"/>
 
